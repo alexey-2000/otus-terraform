@@ -11,7 +11,6 @@ terraform {
 locals {
   folder_id = "b1g6kc05t5h2b2pcr4e0"
   cloud_id = "b1g6jvm08etl4nco629l"
-  zone_id = "ru-central1-a"
 }
 
 provider "yandex" {
